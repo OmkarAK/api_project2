@@ -2,3 +2,4 @@ INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.gi
 INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
 INFO:matplotlib.font_manager:generated new fontManager
 INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://api-project2-q4xl.onrender.com/v0/teams/ "HTTP/1.1 200 OK"
