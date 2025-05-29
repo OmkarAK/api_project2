@@ -3,7 +3,7 @@ import logging
 import pandas as pd
 
 if 'base_url' not in st.session_state:
-    st.session_state['base_url'] = "https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/" 
+    st.session_state['base_url'] = "https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev" 
 
 logging.basicConfig(
     filename='football_app.log',  
