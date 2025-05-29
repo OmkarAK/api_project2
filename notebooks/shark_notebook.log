@@ -1,0 +1,7 @@
+INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/v0/weeks/ "HTTP/1.1 404 Not Found"
+ERROR:swc_simple_client:HTTP status error occurred: 
+INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/v0/weeks/ "HTTP/1.1 404 Not Found"
+ERROR:swc_simple_client:HTTP status error occurred: 
+INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/v0/weeks/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/v0/leagues/ "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://literate-acorn-5947rjg9r7q274vw-8000.app.github.dev/v0/teams/ "HTTP/1.1 200 OK"

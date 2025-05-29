@@ -7,3 +7,7 @@ uvicorn>=0.23.0
 Pytest>=8.1.0
 httpx>=0.27.0
 pandas
+backoff
+streamlit>=1.38.0
+nfl_data_py
+matplotlib
